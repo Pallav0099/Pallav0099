@@ -1,8 +1,28 @@
-- 👋 I'm Pallav currently pursuing B.Tech in IT.
-- 💻 I'm good with C, C++, GTK, Python, Flask, Vanilla Javascript, React.js, Three.js, Framer-Motion, Vanilla CSS, Tailwind CSS AND THE TOUGHTEST LANGUAGE OF ALL TIME HTML.
-- 🌱 I’m currently learning Typescript and the good old Data Structures.
-- 📫 How to reach me? pallavanand@proton.me or @pallavmid on discord.
-- Checkout my portfolio https://www.pallav.space/ 
+# 👋 Hi, I'm Pallav!
+
+🎓 Currently pursuing **B.Tech in Information Technology**
+
+## 💻 Tech Stack
+I'm comfortable working with:
+
+- **Languages**: C, C++, Python, JavaScript, and the toughest of 'em all HTML
+- **Frameworks & Libraries**:  
+  - 🐍 Backend: Flask, Supabase  
+  - 🎨 Frontend: React.js, Three.js, Framer Motion  
+  - 🧰 UI Styling: Vanilla CSS, Tailwind CSS  
+  - 🖥️ Desktop: GTK
+
+## 🌱 Currently Learning
+- **TypeScript**
+- **Data Structures & Algorithms** (yes, the classics)
+
+## 📫 Reach Me At
+- 📧 Email: [pallavanand@proton.me](mailto:pallavanand@proton.me)  
+- 💬 Discord: `@pallavmid`
+
+## 🌐 Check Out My Portfolio
+**🔗 [pallav.space](https://www.pallav.space/)**
+
 <!---
 Pallav0099/Pallav0099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
