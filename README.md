@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pallav
+# Hi, I'm Pallav
 
 🎓 **B.Tech IT Student @ Manipal University Jaipur**
 
@@ -9,7 +9,7 @@ I’m a developer focused on networking, infrastructure, and high-performance to
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** Rust (Learning), C/C++, TypeScript, Python, JavaScript  
 **Infrastructure & Networking:** Iroh (P2P), Docker, SSH Tunneling, Reverse Proxies  
