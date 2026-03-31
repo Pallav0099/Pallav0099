@@ -1,22 +1,5 @@
 # Hi, I'm Pallav
 
-🎓 **B.Tech IT Student @ Manipal University Jaipur**
-
-I’m a developer focused on networking, infrastructure, and high-performance tools. Currently transitioning from high-level web apps to systems programming and P2P protocols.
-
-🌐 **Portfolio:** [pallav.space](https://www.pallav.space/)  
-📫 **Email:** [pallavanand@proton.me](mailto:pallavanand@proton.me) • **Discord:** `@pallavmid`
-
----
-
-## Tech Stack
-
-**Languages:** Rust (Learning), C/C++, TypeScript, Python, JavaScript  
-**Infrastructure & Networking:** Iroh (P2P), Docker, SSH Tunneling, Reverse Proxies  
-**Frontend & Mobile:** Flutter, React.js, Next.js, Three.js, Tailwind  
-**Backend & DB:** Supabase, Flask, PostgreSQL  
-**Desktop:** GTK, Arch Linux (Hyprland rice)
-
 ---
 
 ## 🛠️ Currently Working On
@@ -30,7 +13,7 @@ I’m a developer focused on networking, infrastructure, and high-performance to
 
 ---
 
-### 🐧 Fun Fact
+### 🐧 
 I use **Arch btw** (with a custom Hyprland setup) and spend way too much time perfecting my terminal workflow.
 
 <!---
