@@ -2,7 +2,7 @@
 ---
 ## 🛠️ Currently Working On
 * **[PanicTunnl](https://panictunnl.run):** A zero-config, E2E encrypted SSH tunneling service.
-* **PanicMonitr:** peer-2-peer system monitoring tool, mainly targetting homelabbers.
+* **[PanicMonitr](https://paniclab.tech/panicmonitr):** peer-2-peer system monitoring tool, mainly targetting homelabbers.
 
 ## 🌱 Deep Diving Into
 * **Rust Ecosystem:** Building memory-safe, high-concurrency tools.
